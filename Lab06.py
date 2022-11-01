@@ -1,5 +1,5 @@
 def main():
-    print(f'{17 + 5}')  # adds two numbers
+    print(f'{17 - 5}')  # subtracts two numbers
 
 
 if __name__ == '__main__':
